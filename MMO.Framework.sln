@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.Framework", "MMO.Framework\MMO.Framework.csproj", "{6B32DDBF-79AF-4880-855F-EBA3B7262170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.PhotonFramework", "MMO.PhotonFramework\MMO.PhotonFramework.csproj", "{5258F4DF-A1D2-44B7-BF5B-DE016E174523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B32DDBF-79AF-4880-855F-EBA3B7262170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B32DDBF-79AF-4880-855F-EBA3B7262170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B32DDBF-79AF-4880-855F-EBA3B7262170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B32DDBF-79AF-4880-855F-EBA3B7262170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5258F4DF-A1D2-44B7-BF5B-DE016E174523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5258F4DF-A1D2-44B7-BF5B-DE016E174523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5258F4DF-A1D2-44B7-BF5B-DE016E174523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5258F4DF-A1D2-44B7-BF5B-DE016E174523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

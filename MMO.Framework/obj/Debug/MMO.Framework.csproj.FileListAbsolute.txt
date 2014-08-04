@@ -1,0 +1,9 @@
+C:\Unity\Projects\XNA\MMO.Framework\MMO.Framework\bin\Debug\MMO.Framework.dll
+C:\Unity\Projects\XNA\MMO.Framework\MMO.Framework\bin\Debug\MMO.Framework.pdb
+C:\Unity\Projects\XNA\MMO.Framework\MMO.Framework\obj\Debug\MMO.Framework.dll
+C:\Unity\Projects\XNA\MMO.Framework\MMO.Framework\obj\Debug\MMO.Framework.pdb
+C:\GitHub\Photon\BaseFramework\PhotonFramework\MMO.Framework\bin\Debug\MMO.Framework.dll
+C:\GitHub\Photon\BaseFramework\PhotonFramework\MMO.Framework\bin\Debug\MMO.Framework.pdb
+C:\GitHub\Photon\BaseFramework\PhotonFramework\MMO.Framework\obj\Debug\MMO.Framework.csprojResolveAssemblyReference.cache
+C:\GitHub\Photon\BaseFramework\PhotonFramework\MMO.Framework\obj\Debug\MMO.Framework.dll
+C:\GitHub\Photon\BaseFramework\PhotonFramework\MMO.Framework\obj\Debug\MMO.Framework.pdb
